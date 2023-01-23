@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eamonnflynn
-- 👀 I’m interested in asp.net, dotnet core, blazor, VueJs
-- 🌱 I’m currently learning VueJs, Blazor, Go
+- 👀 I’m interested in asp.net, dotnet core, blazor, VueJs, Nuxt
+- 🌱 I’m currently learning Nuxt, VueJs, Astro
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
